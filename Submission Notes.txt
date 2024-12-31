@@ -1,0 +1,5 @@
+Application URL for Deployed in AWS: a6414c932443c42748ee23c978d7fdaf-774739119.us-east-2.elb.amazonaws.com
+
+
+role:arn:aws:iam::706310580439:role/UdacityFlaskDeployCBKubectlRole
+aws id : 706310580439
